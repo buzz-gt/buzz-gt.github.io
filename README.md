@@ -64,8 +64,6 @@
 </head>
 <body>
   <h1>Buzz</h1>
-  <img src="profile.jpg" alt="profile" class="profile-pic">
-  <div class="card">
     <h2>About Me</h2>
     <p>Yo! I'm 17, single (😌) <br>
     I’m Mid-pro or high pro<br>
